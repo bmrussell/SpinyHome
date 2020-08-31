@@ -6,7 +6,7 @@ A homepage for Steam browser etc [enter](https://bmrussell.github.io/SpinyHome/s
 ## How
 
 - [Continuous build](https://parkererickson.github.io/portfolio/blog/MkDocsCD/)
-- [Github actions](https://github.com/features/actions)
+- [GitHub actions](https://github.com/features/actions)
 
 ## Dependencies
 
@@ -14,7 +14,7 @@ A homepage for Steam browser etc [enter](https://bmrussell.github.io/SpinyHome/s
     ```
     pip install mkdocs-material
     ```
-- Mkdocs
+- MkDocs
     ```
     cinst -y mkdocs
     mkdocs serve
