@@ -5,5 +5,4 @@
 [Slack](https://eatelectricdeath.slack.com/)
 
 ## Players
-- [Spotify](https://open.spotify.com/)
 - [Pocketcasts](https://play.pocketcasts.com/podcasts)

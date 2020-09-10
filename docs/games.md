@@ -2,6 +2,7 @@
 
 ## Elite Dangerous
 
+- [Tutorials](https://www.elitedangerous.com/help/tutorials/)
 - [EDDB](https://eddb.io/)
 - [Inara](https://inara.cz/)
 - [Coriolis.io](https://coriolis.io)
